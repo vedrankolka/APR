@@ -1,0 +1,16 @@
+Rosenbrocks banana function
+Double array
+Bit vector
+Second function
+Double array
+Bit vector
+Schaffers function
+Double array
+Bit vector
+Almost Schaffers function
+Double array
+Bit vector
+
+dimension = 1 
+
+[  0.000838] 7.028145234677652e-07
